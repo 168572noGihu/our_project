@@ -1,1 +1,3 @@
-Hello GitHub4
+<<<<<<< HEAD
+Hello GitHub5
+>>>>>>> master
